@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartGas</string>
+    <string name="maps_api_key">YOUR_MAPS_API_KEY_HERE</string>
+    <string name="androidx_startup" translatable="false">androidx.startup</string>
+</resources>
