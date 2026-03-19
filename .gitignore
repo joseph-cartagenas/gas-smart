@@ -1,0 +1,25 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Generated files
+app/src/main/assets/schemas/
+app/schemas/
+
+# Build output
+app/build/
+build/
+
+# Gradle wrapper (keep wrapper jar but ignore generated scripts if preferred)
+# gradle/wrapper/gradle-wrapper.jar
+
+# Android Keystore
+*.jks
+*.keystore
